@@ -21,25 +21,20 @@ This project deepens your understanding of advanced data structures and algorith
 ## Tasks
 
 **1. Min Heap, Huffman Tree, and BST Implementation**   
-
-Implement the following data structures with their respective functionalities:
-
--   **Min Heap:** Support heapify, push, pop, and finding the minimum child. Raise exceptions on invalid operations.
--   **Huffman Tree:** Build the Huffman tree given letters and their frequencies and compute compressed lengths.
--   **Binary Search Tree (BST):** Support insertions and traversals (preorder, inorder, postorder).
+    Implement the following data structures with their respective functionalities:
+    -   **Min Heap:** Support heapify, push, pop, and finding the minimum child. Raise exceptions on invalid operations.
+    -   **Huffman Tree:** Build the Huffman tree given letters and their frequencies and compute compressed lengths.
+    -   **Binary Search Tree (BST):** Support insertions and traversals (preorder, inorder, postorder).
     
 
 **2. Median Queries on Subarrays**   
+    Given a sequence of integers, answer queries asking for the median of elements in a specified subarray `[l, r]`. For each query    
 
-Given a sequence of integers, answer queries asking for the median of elements in a specified subarray `[l, r]`. For each query    
+**3. Counting Covered Points in Intervals**    
+    You are given `n` intervals `[l_i, r_i]`. For each integer point `x` in the range covered by these intervals, determine how many intervals cover it. Output the count of points covered by exactly `k` intervals for all `k`.
 
-**3. Counting Covered Points in Intervals** 
-
-You are given `n` intervals `[l_i, r_i]`. For each integer point `x` in the range covered by these intervals, determine how many intervals cover it. Output the count of points covered by exactly `k` intervals for all `k`.
-
-**4. String Concatenation and Simplification**  
-
-Given a list of strings, concatenate them into a single string and simplify it by removing all spaces. Output the resulting concatenated string.
+**4. String Concatenation and Simplification**   
+    Given a list of strings, concatenate them into a single string and simplify it by removing all spaces. Output the resulting concatenated string.
 
     
 
