@@ -30,12 +30,15 @@ Implement the following data structures with their respective functionalities:
     
 
 **2. Median Queries on Subarrays**   
+
 Given a sequence of integers, answer queries asking for the median of elements in a specified subarray `[l, r]`. For each query    
 
-**3. Counting Covered Points in Intervals**    
+**3. Counting Covered Points in Intervals** 
+
 You are given `n` intervals `[l_i, r_i]`. For each integer point `x` in the range covered by these intervals, determine how many intervals cover it. Output the count of points covered by exactly `k` intervals for all `k`.
 
-**4. String Concatenation and Simplification**    
+**4. String Concatenation and Simplification**  
+
 Given a list of strings, concatenate them into a single string and simplify it by removing all spaces. Output the resulting concatenated string.
 
     
