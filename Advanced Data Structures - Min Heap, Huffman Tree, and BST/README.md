@@ -21,7 +21,7 @@ This project deepens your understanding of advanced data structures and algorith
 ## Tasks
 
 **1. Min Heap, Huffman Tree, and BST Implementation**   
-    Implement the following data structures with their respective functionalities:
+    Implement the following data structures with their respective functionalities:   
     -   **Min Heap:** Support heapify, push, pop, and finding the minimum child. Raise exceptions on invalid operations.
     -   **Huffman Tree:** Build the Huffman tree given letters and their frequencies and compute compressed lengths.
     -   **Binary Search Tree (BST):** Support insertions and traversals (preorder, inorder, postorder).
