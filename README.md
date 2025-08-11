@@ -26,10 +26,10 @@ The projects focus on the design, analysis, and implementation of fundamental da
 
 | CA | Project Title | Link |
 |----|---------------|------|
-| **CA1** | Algorithmic Problem Solving with Python | [View](./Project%201%20-%20Algorithmic%20Problem%20Solving%20with%20Python) |
-| **CA2** | Simple Data Structures - Queue, Stack, and LinkedList | [View](./Project%202%20-%20Simple%20Data%20Structures%20Implementation%20and%20Applications) |
-| **CA3** | Advanced Data Structures - Min Heap, Huffman Tree, and BST | [View](./Project%203%20-%20Advanced%20Data%20Structures%20and%20Algorithms%20Implementation) |
-| **CA4** | Graph Algorithms: BFS, DFS, and DSU | [View](./Project%204%20-%20Graph%20Algorithms%20BFS%20DFS%20and%20DSU) |
+| **CA1** | Algorithmic Problem Solving with Python | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Algorithmic%20Problem%20Solving%20with%20Python) |
+| **CA2** | Simple Data Structures - Queue, Stack, and LinkedList | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Simple%20Data%20Structures%20-%20Queue%2C%20Stack%2C%20and%20LinkedList)|
+| **CA3** | Advanced Data Structures - Min Heap, Huffman Tree, and BST | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Advanced%20Data%20Structures%20-%20Min%20Heap%2C%20Huffman%20Tree%2C%20and%20BST) |
+| **CA4** | Graph Algorithms: BFS, DFS, and DSU | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Algorithmic%20Problem%20Solving%20with%20Python)|
 
 
 ## License
