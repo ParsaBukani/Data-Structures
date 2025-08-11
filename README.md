@@ -29,7 +29,7 @@ The projects focus on the design, analysis, and implementation of fundamental da
 | **CA1** | Algorithmic Problem Solving with Python | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Algorithmic%20Problem%20Solving%20with%20Python) |
 | **CA2** | Simple Data Structures - Queue, Stack, and LinkedList | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Simple%20Data%20Structures%20-%20Queue%2C%20Stack%2C%20and%20LinkedList)|
 | **CA3** | Advanced Data Structures - Min Heap, Huffman Tree, and BST | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Advanced%20Data%20Structures%20-%20Min%20Heap%2C%20Huffman%20Tree%2C%20and%20BST) |
-| **CA4** | Graph Algorithms: BFS, DFS, and DSU | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Algorithmic%20Problem%20Solving%20with%20Python)|
+| **CA4** | Graph Algorithms: BFS, DFS, and DSU | [View](https://github.com/ParsaBukani/Data-Structures/tree/main/Graph%20Algorithms%20BFS%2C%20DFS%2C%20and%20DSU)|
 
 
 ## License
